@@ -142,7 +142,7 @@ p {
   h1 {
     text-align: start;
   }
-  button:hover {
+  button h2:hover {
     color: #f47b56;
   }
 }
